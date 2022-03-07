@@ -1,4 +1,4 @@
 # Edureka
-This is implementation of edureka case study.
-A line is added in readme file.
-For seeing the hash it's a unique id.
+Some of the notes that will be useful for us with use cases
+
+1. Git
